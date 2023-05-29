@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">A frontend and mobile developer from Croatia</h3>
+<h1>Hi 👋, I'm Nikola</h1>
+<h3>A frontend and mobile developer from Croatia</h3>
 
 
 
