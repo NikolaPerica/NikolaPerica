@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [Finance manager](https://github.com/NikolaPerica/Finance-manager)
+- 🔭 I’m currently working on [Finance manager]([https://github.com/NikolaPerica/Finance-manager](https://github.com/NikolaPerica/space))
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikolaPerica/](https://github.com/NikolaPerica/)
 
