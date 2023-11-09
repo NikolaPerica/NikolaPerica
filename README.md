@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Space page]([https://github.com/NikolaPerica/Finance-manager](https://github.com/NikolaPerica/space))
+- 🔭 I’m currently working on [Space page]([https://github.com/NikolaPerica/space](https://github.com/NikolaPerica/space))
 
 - 🌱 I’m currently learning **React**
 
