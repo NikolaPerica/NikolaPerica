@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Space page]([https://github.com/NikolaPerica/space](https://github.com/NikolaPerica/space))
+- 🔭 I’m currently working on [Google calendar clone]([https://github.com/NikolaPerica/google-calendar](https://github.com/NikolaPerica/google-calendar))
 
 - 🌱 I’m currently learning **React**
 
